@@ -1,8 +1,6 @@
 {
-    "name": "VRealitiz",
-    "image": "https://vrealitiz.com/token/SmallLogo.jpg",
-    "symbol": "VRLT",
-    "description": "Some test description.",
-    "twitter": "https://twitter.com/e",
-    "website": "https://vrealitiz.com"
-  }
+  "name": "VRealitiz",
+  "symbol": "VRLT",
+  "description": "Some test description.",
+  "image": "https://hivemapper-marketing-public.s3.us-west-2.amazonaws.com/Hivemapper_HONEY_token.png"
+}
